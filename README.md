@@ -104,8 +104,7 @@
 
 ## ☕ 소통해요!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/june-kim-929898137)  
-[![Blog](https://img.shields.io/badge/Tech_Blog-000000?style=for-the-badge&logo=github&logoColor=white)](https://your-blog.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/june-kim-929898137)
 [![Notion Roadmap](https://img.shields.io/badge/Roadmap_Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so/your-roadmap)
 
 ---
