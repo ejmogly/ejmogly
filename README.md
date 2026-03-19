@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 안녕하세요! 데이터 애널리틱스 엔지니어 **김준**입니다.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 안녕하세요! 데이터 애널리틱스 엔지니어 **김준**입니다!
 
 데이터를 수집하고, 정제하고, 분석 가능한 형태로 구조화하여 비즈니스 의사결정에 연결하는 일을 합니다.  
 SQL, Python, Databricks, Airflow, Tableau를 중심으로 데이터 파이프라인, 데이터 모델링, 지표 체계화, 분석 환경 구축 업무에 관심이 많습니다.
