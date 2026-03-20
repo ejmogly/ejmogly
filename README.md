@@ -87,13 +87,4 @@ SQL, Python, Databricks, Airflow, Tableau를 중심으로 데이터 파이프라
 
 ---
 
-## 📈 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ejmogly&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ejmogly&layout=compact&theme=default)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=ejmogly&style=for-the-badge&color=blue)](https://github.com/ejmogly)
-
----
-
 데이터를 더 잘 이해하고, 더 믿을 수 있게 만들고, 더 잘 활용할 수 있도록 돕는 일을 지향합니다.
